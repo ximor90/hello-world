@@ -1,0 +1,62 @@
+font family
+font style (italica)
+font wariant -kapitálky
+font size
+font weight (bold, light)
+
+text-indent( % nebo px.)
+ - o počet pixelů do strany odsadí
+line-height (%, px)
+	- výška řádku
+letter-spacing (pt)
+	- roztažení 
+word-spacing (px)
+	- mezera mezi slovy
+
+text-shadow (px nebo #číslo)
+	- 
+text-transform 
+
+text-decoration
+	- underline
+	- linedrow
+	- blink
+
+hyphens: nerozdělování slov (pozor!)
+
+word-wrap
+	- funguje pro celý řádek
+	- normal
+	- brake-word /all
+
+word-brake
+	- jen pro jedno slovo na konci řádku
+		pevná mezera
+
+CSS:
+opacity = průhlednost
+background-color: transparent = průhhledné pozadí
+background-image: linear-gradient(yellow-green)
+background-repeat:
+background-position
+background-size: cover, 100% * 100%
+text-overflow: 
+	-když text přetýká, vytvoří se ...
+border-color
+Margin,
+Padding,
+list-style-type: 
+	- jak bude vypadat odrážka  (použití ul, li v html)
+list-style-image:
+list-style-position: 
+float: odstavec bude plout
+
+&nbsp = pevná mezera
+&quot = uvozovky
+&lt nebo &gt = < >
+&euro; = €
+ amp = &
+
+<footer>
+
+</footer>
